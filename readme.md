@@ -25,6 +25,12 @@ Some other metrics I think would be useful:
 
  ![](feedback.png)
 
+ ## Why is this Important?
+
+Analytics allow us to understand how our site is being used, for example, which pages are most read, how users navigate between pages, and in what format are they reading the site. This knowledge can inform our efforts, and maximise the impact of the work we do. We might prioritise revisions on the most popular pages, for example. And we might re-think how we structure our sections based on observations of user behaviour. 
+
+ ## What we Did
+
  We looked at an existing Slack app, [Google Analytics Insights](https://sysdigcloud.slack.com/apps/AA42VQN5U-google-analytics-insights). This app has free features, as well as a paid plan. The free version is limited, and the paid plan is prohibitively expensive, at $2148 per annum. We chose to create our own app, offering equivalents to the paid features in Google Analytics Insights.
 
  Google Analytics provides information, but not all information is created equal. There is no sense in bombarding the Docs team with information that doesn't help or guide their efforts. An example might be site traffic. The Docs team is not running a marketing campaign, so telling them the site traffic increased by 5% doesn't make a meaningful difference to their work. On the other hand, telling them that 90% of readers bounce off a certain page is useful.
