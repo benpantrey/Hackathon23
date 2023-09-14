@@ -29,4 +29,8 @@ Some other metrics I think would be useful:
 
  We chose to create our own app, that would include the paid features offered in Google Analytics Insights.
 
+ Google Analytics provides information, but not all information is equaly useful. There is no sense in bombarding the Docs team with information that doesn't help or guide their efforts. An example might be site traffic. The Docs team is not running a marketing campaign, so it doesn't make sense to tell them how many people are coming to the site.
+ 
+ Furthermore, there is no sense to receiving weekly reports if the information does not change week by week. Some stats are basically fixed, for example, the most visited pages, so there is no point sending it repeatedly.
+
  
